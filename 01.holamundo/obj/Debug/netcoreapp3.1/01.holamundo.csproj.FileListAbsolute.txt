@@ -1,0 +1,11 @@
+Z:\04.sisinfogeoIC\proyectos\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.exe
+Z:\04.sisinfogeoIC\proyectos\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.deps.json
+Z:\04.sisinfogeoIC\proyectos\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.runtimeconfig.json
+Z:\04.sisinfogeoIC\proyectos\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.runtimeconfig.dev.json
+Z:\04.sisinfogeoIC\proyectos\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.dll
+Z:\04.sisinfogeoIC\proyectos\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.pdb
+Z:\04.sisinfogeoIC\proyectos\01.holamundo\obj\Debug\netcoreapp3.1\01.holamundo.csprojAssemblyReference.cache
+Z:\04.sisinfogeoIC\proyectos\01.holamundo\obj\Debug\netcoreapp3.1\01.holamundo.AssemblyInfoInputs.cache
+Z:\04.sisinfogeoIC\proyectos\01.holamundo\obj\Debug\netcoreapp3.1\01.holamundo.AssemblyInfo.cs
+Z:\04.sisinfogeoIC\proyectos\01.holamundo\obj\Debug\netcoreapp3.1\01.holamundo.dll
+Z:\04.sisinfogeoIC\proyectos\01.holamundo\obj\Debug\netcoreapp3.1\01.holamundo.pdb
