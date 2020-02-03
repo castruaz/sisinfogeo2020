@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\04.sisinfogeoIC\\proyectos\\01.holamundo\\01.holamundo.csproj": {}
+    "Z:\\04.sisinfogeoIC\\proyectos\\03.areatriangulo\\03.areatriangulo.csproj": {}
   },
   "projects": {
-    "Z:\\04.sisinfogeoIC\\proyectos\\01.holamundo\\01.holamundo.csproj": {
+    "Z:\\04.sisinfogeoIC\\proyectos\\03.areatriangulo\\03.areatriangulo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\04.sisinfogeoIC\\proyectos\\01.holamundo\\01.holamundo.csproj",
-        "projectName": "01.holamundo",
-        "projectPath": "Z:\\04.sisinfogeoIC\\proyectos\\01.holamundo\\01.holamundo.csproj",
+        "projectUniqueName": "Z:\\04.sisinfogeoIC\\proyectos\\03.areatriangulo\\03.areatriangulo.csproj",
+        "projectName": "03.areatriangulo",
+        "projectPath": "Z:\\04.sisinfogeoIC\\proyectos\\03.areatriangulo\\03.areatriangulo.csproj",
         "packagesPath": "C:\\Users\\castr\\.nuget\\packages\\",
-        "outputPath": "Z:\\04.sisinfogeoIC\\proyectos\\01.holamundo\\obj\\",
+        "outputPath": "Z:\\04.sisinfogeoIC\\proyectos\\03.areatriangulo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\castr\\AppData\\Roaming\\NuGet\\NuGet.Config"
