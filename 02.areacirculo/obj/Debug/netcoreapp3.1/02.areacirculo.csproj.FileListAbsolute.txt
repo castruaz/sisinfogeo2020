@@ -1,11 +1,22 @@
-Z:\04.sisinfogeoIC\proyectos\02.areacirculo\obj\Debug\netcoreapp3.1\02.areacirculo.csprojAssemblyReference.cache
-Z:\04.sisinfogeoIC\proyectos\02.areacirculo\obj\Debug\netcoreapp3.1\02.areacirculo.AssemblyInfoInputs.cache
-Z:\04.sisinfogeoIC\proyectos\02.areacirculo\obj\Debug\netcoreapp3.1\02.areacirculo.AssemblyInfo.cs
-Z:\04.sisinfogeoIC\proyectos\02.areacirculo\bin\Debug\netcoreapp3.1\02.areacirculo.exe
-Z:\04.sisinfogeoIC\proyectos\02.areacirculo\bin\Debug\netcoreapp3.1\02.areacirculo.deps.json
-Z:\04.sisinfogeoIC\proyectos\02.areacirculo\bin\Debug\netcoreapp3.1\02.areacirculo.runtimeconfig.json
-Z:\04.sisinfogeoIC\proyectos\02.areacirculo\bin\Debug\netcoreapp3.1\02.areacirculo.runtimeconfig.dev.json
-Z:\04.sisinfogeoIC\proyectos\02.areacirculo\bin\Debug\netcoreapp3.1\02.areacirculo.dll
-Z:\04.sisinfogeoIC\proyectos\02.areacirculo\bin\Debug\netcoreapp3.1\02.areacirculo.pdb
-Z:\04.sisinfogeoIC\proyectos\02.areacirculo\obj\Debug\netcoreapp3.1\02.areacirculo.dll
-Z:\04.sisinfogeoIC\proyectos\02.areacirculo\obj\Debug\netcoreapp3.1\02.areacirculo.pdb
+Z:/04.sisinfogeoIC/proyectos/02.areacirculo/obj/Debug/netcoreapp3.1/02.areacirculo.csprojAssemblyReference.cache
+Z:/04.sisinfogeoIC/proyectos/02.areacirculo/obj/Debug/netcoreapp3.1/02.areacirculo.AssemblyInfoInputs.cache
+Z:/04.sisinfogeoIC/proyectos/02.areacirculo/obj/Debug/netcoreapp3.1/02.areacirculo.AssemblyInfo.cs
+Z:/04.sisinfogeoIC/proyectos/02.areacirculo/bin/Debug/netcoreapp3.1/02.areacirculo.exe
+Z:/04.sisinfogeoIC/proyectos/02.areacirculo/bin/Debug/netcoreapp3.1/02.areacirculo.deps.json
+Z:/04.sisinfogeoIC/proyectos/02.areacirculo/bin/Debug/netcoreapp3.1/02.areacirculo.runtimeconfig.json
+Z:/04.sisinfogeoIC/proyectos/02.areacirculo/bin/Debug/netcoreapp3.1/02.areacirculo.runtimeconfig.dev.json
+Z:/04.sisinfogeoIC/proyectos/02.areacirculo/bin/Debug/netcoreapp3.1/02.areacirculo.dll
+Z:/04.sisinfogeoIC/proyectos/02.areacirculo/bin/Debug/netcoreapp3.1/02.areacirculo.pdb
+Z:/04.sisinfogeoIC/proyectos/02.areacirculo/obj/Debug/netcoreapp3.1/02.areacirculo.dll
+Z:/04.sisinfogeoIC/proyectos/02.areacirculo/obj/Debug/netcoreapp3.1/02.areacirculo.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/02.areacirculo/bin/Debug/netcoreapp3.1/02.areacirculo
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/02.areacirculo/bin/Debug/netcoreapp3.1/02.areacirculo.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/02.areacirculo/bin/Debug/netcoreapp3.1/02.areacirculo.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/02.areacirculo/bin/Debug/netcoreapp3.1/02.areacirculo.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/02.areacirculo/bin/Debug/netcoreapp3.1/02.areacirculo.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/02.areacirculo/bin/Debug/netcoreapp3.1/02.areacirculo.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/02.areacirculo/obj/Debug/netcoreapp3.1/02.areacirculo.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/02.areacirculo/obj/Debug/netcoreapp3.1/02.areacirculo.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/02.areacirculo/obj/Debug/netcoreapp3.1/02.areacirculo.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/02.areacirculo/obj/Debug/netcoreapp3.1/02.areacirculo.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/02.areacirculo/obj/Debug/netcoreapp3.1/02.areacirculo.pdb

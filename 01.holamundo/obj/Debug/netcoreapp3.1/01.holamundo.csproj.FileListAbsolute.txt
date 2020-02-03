@@ -1,11 +1,22 @@
-Z:\04.sisinfogeoIC\proyectos\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.exe
-Z:\04.sisinfogeoIC\proyectos\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.deps.json
-Z:\04.sisinfogeoIC\proyectos\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.runtimeconfig.json
-Z:\04.sisinfogeoIC\proyectos\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.runtimeconfig.dev.json
-Z:\04.sisinfogeoIC\proyectos\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.dll
-Z:\04.sisinfogeoIC\proyectos\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.pdb
-Z:\04.sisinfogeoIC\proyectos\01.holamundo\obj\Debug\netcoreapp3.1\01.holamundo.csprojAssemblyReference.cache
-Z:\04.sisinfogeoIC\proyectos\01.holamundo\obj\Debug\netcoreapp3.1\01.holamundo.AssemblyInfoInputs.cache
-Z:\04.sisinfogeoIC\proyectos\01.holamundo\obj\Debug\netcoreapp3.1\01.holamundo.AssemblyInfo.cs
-Z:\04.sisinfogeoIC\proyectos\01.holamundo\obj\Debug\netcoreapp3.1\01.holamundo.dll
-Z:\04.sisinfogeoIC\proyectos\01.holamundo\obj\Debug\netcoreapp3.1\01.holamundo.pdb
+Z:/04.sisinfogeoIC/proyectos/01.holamundo/bin/Debug/netcoreapp3.1/01.holamundo.exe
+Z:/04.sisinfogeoIC/proyectos/01.holamundo/bin/Debug/netcoreapp3.1/01.holamundo.deps.json
+Z:/04.sisinfogeoIC/proyectos/01.holamundo/bin/Debug/netcoreapp3.1/01.holamundo.runtimeconfig.json
+Z:/04.sisinfogeoIC/proyectos/01.holamundo/bin/Debug/netcoreapp3.1/01.holamundo.runtimeconfig.dev.json
+Z:/04.sisinfogeoIC/proyectos/01.holamundo/bin/Debug/netcoreapp3.1/01.holamundo.dll
+Z:/04.sisinfogeoIC/proyectos/01.holamundo/bin/Debug/netcoreapp3.1/01.holamundo.pdb
+Z:/04.sisinfogeoIC/proyectos/01.holamundo/obj/Debug/netcoreapp3.1/01.holamundo.csprojAssemblyReference.cache
+Z:/04.sisinfogeoIC/proyectos/01.holamundo/obj/Debug/netcoreapp3.1/01.holamundo.AssemblyInfoInputs.cache
+Z:/04.sisinfogeoIC/proyectos/01.holamundo/obj/Debug/netcoreapp3.1/01.holamundo.AssemblyInfo.cs
+Z:/04.sisinfogeoIC/proyectos/01.holamundo/obj/Debug/netcoreapp3.1/01.holamundo.dll
+Z:/04.sisinfogeoIC/proyectos/01.holamundo/obj/Debug/netcoreapp3.1/01.holamundo.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/01.holamundo/bin/Debug/netcoreapp3.1/01.holamundo
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/01.holamundo/bin/Debug/netcoreapp3.1/01.holamundo.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/01.holamundo/bin/Debug/netcoreapp3.1/01.holamundo.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/01.holamundo/bin/Debug/netcoreapp3.1/01.holamundo.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/01.holamundo/bin/Debug/netcoreapp3.1/01.holamundo.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/01.holamundo/bin/Debug/netcoreapp3.1/01.holamundo.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/01.holamundo/obj/Debug/netcoreapp3.1/01.holamundo.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/01.holamundo/obj/Debug/netcoreapp3.1/01.holamundo.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/01.holamundo/obj/Debug/netcoreapp3.1/01.holamundo.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/01.holamundo/obj/Debug/netcoreapp3.1/01.holamundo.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/01.holamundo/obj/Debug/netcoreapp3.1/01.holamundo.pdb

@@ -19,7 +19,7 @@ namespace _03.areatriangulo
             elarea = (labase*laaltura) /2;
 
             Console.WriteLine($"El area es {elarea}");
-            Console.ReadLine();
+          
 
 
 

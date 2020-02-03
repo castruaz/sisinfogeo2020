@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\04.sisinfogeoIC\\proyectos\\01.holamundo\\01.holamundo.csproj": {}
+    "/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/01.holamundo/01.holamundo.csproj": {}
   },
   "projects": {
-    "Z:\\04.sisinfogeoIC\\proyectos\\01.holamundo\\01.holamundo.csproj": {
+    "/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/01.holamundo/01.holamundo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\04.sisinfogeoIC\\proyectos\\01.holamundo\\01.holamundo.csproj",
+        "projectUniqueName": "/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/01.holamundo/01.holamundo.csproj",
         "projectName": "01.holamundo",
-        "projectPath": "Z:\\04.sisinfogeoIC\\proyectos\\01.holamundo\\01.holamundo.csproj",
-        "packagesPath": "C:\\Users\\castr\\.nuget\\packages\\",
-        "outputPath": "Z:\\04.sisinfogeoIC\\proyectos\\01.holamundo\\obj\\",
+        "projectPath": "/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/01.holamundo/01.holamundo.csproj",
+        "packagesPath": "/Users/castr/.nuget/packages/",
+        "outputPath": "/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/01.holamundo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\castr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/castr/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
         }
       }
     }
