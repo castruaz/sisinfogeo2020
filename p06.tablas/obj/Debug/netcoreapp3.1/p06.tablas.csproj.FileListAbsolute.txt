@@ -1,0 +1,11 @@
+Z:\04.sisinfogeoIC\proyectos\p06.tablas\bin\Debug\netcoreapp3.1\p06.tablas.exe
+Z:\04.sisinfogeoIC\proyectos\p06.tablas\bin\Debug\netcoreapp3.1\p06.tablas.deps.json
+Z:\04.sisinfogeoIC\proyectos\p06.tablas\bin\Debug\netcoreapp3.1\p06.tablas.runtimeconfig.json
+Z:\04.sisinfogeoIC\proyectos\p06.tablas\bin\Debug\netcoreapp3.1\p06.tablas.runtimeconfig.dev.json
+Z:\04.sisinfogeoIC\proyectos\p06.tablas\bin\Debug\netcoreapp3.1\p06.tablas.dll
+Z:\04.sisinfogeoIC\proyectos\p06.tablas\bin\Debug\netcoreapp3.1\p06.tablas.pdb
+Z:\04.sisinfogeoIC\proyectos\p06.tablas\obj\Debug\netcoreapp3.1\p06.tablas.csprojAssemblyReference.cache
+Z:\04.sisinfogeoIC\proyectos\p06.tablas\obj\Debug\netcoreapp3.1\p06.tablas.AssemblyInfoInputs.cache
+Z:\04.sisinfogeoIC\proyectos\p06.tablas\obj\Debug\netcoreapp3.1\p06.tablas.AssemblyInfo.cs
+Z:\04.sisinfogeoIC\proyectos\p06.tablas\obj\Debug\netcoreapp3.1\p06.tablas.dll
+Z:\04.sisinfogeoIC\proyectos\p06.tablas\obj\Debug\netcoreapp3.1\p06.tablas.pdb

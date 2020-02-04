@@ -1,0 +1,22 @@
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p04.ciclos/obj/Debug/netcoreapp3.1/p04.ciclos.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p04.ciclos/obj/Debug/netcoreapp3.1/p04.ciclos.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p04.ciclos/obj/Debug/netcoreapp3.1/p04.ciclos.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p04.ciclos/bin/Debug/netcoreapp3.1/p04.ciclos
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p04.ciclos/bin/Debug/netcoreapp3.1/p04.ciclos.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p04.ciclos/bin/Debug/netcoreapp3.1/p04.ciclos.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p04.ciclos/bin/Debug/netcoreapp3.1/p04.ciclos.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p04.ciclos/bin/Debug/netcoreapp3.1/p04.ciclos.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p04.ciclos/bin/Debug/netcoreapp3.1/p04.ciclos.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p04.ciclos/obj/Debug/netcoreapp3.1/p04.ciclos.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p04.ciclos/obj/Debug/netcoreapp3.1/p04.ciclos.pdb
+Z:\04.sisinfogeoIC\proyectos\p04.ciclos\bin\Debug\netcoreapp3.1\p04.ciclos.exe
+Z:\04.sisinfogeoIC\proyectos\p04.ciclos\bin\Debug\netcoreapp3.1\p04.ciclos.deps.json
+Z:\04.sisinfogeoIC\proyectos\p04.ciclos\bin\Debug\netcoreapp3.1\p04.ciclos.runtimeconfig.json
+Z:\04.sisinfogeoIC\proyectos\p04.ciclos\bin\Debug\netcoreapp3.1\p04.ciclos.runtimeconfig.dev.json
+Z:\04.sisinfogeoIC\proyectos\p04.ciclos\bin\Debug\netcoreapp3.1\p04.ciclos.dll
+Z:\04.sisinfogeoIC\proyectos\p04.ciclos\bin\Debug\netcoreapp3.1\p04.ciclos.pdb
+Z:\04.sisinfogeoIC\proyectos\p04.ciclos\obj\Debug\netcoreapp3.1\p04.ciclos.csprojAssemblyReference.cache
+Z:\04.sisinfogeoIC\proyectos\p04.ciclos\obj\Debug\netcoreapp3.1\p04.ciclos.AssemblyInfoInputs.cache
+Z:\04.sisinfogeoIC\proyectos\p04.ciclos\obj\Debug\netcoreapp3.1\p04.ciclos.AssemblyInfo.cs
+Z:\04.sisinfogeoIC\proyectos\p04.ciclos\obj\Debug\netcoreapp3.1\p04.ciclos.dll
+Z:\04.sisinfogeoIC\proyectos\p04.ciclos\obj\Debug\netcoreapp3.1\p04.ciclos.pdb

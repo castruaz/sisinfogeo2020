@@ -6,6 +6,9 @@ namespace _03.areatriangulo
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine($"{args.Length}");
+
             float labase, laaltura, elarea;
 
 
@@ -17,6 +20,10 @@ namespace _03.areatriangulo
             laaltura=float.Parse(Console.ReadLine());
 
             elarea = (labase*laaltura) /2;
+
+
+
+
 
             Console.WriteLine($"El area es {elarea}");
           

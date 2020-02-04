@@ -1,0 +1,11 @@
+Z:\04.sisinfogeoIC\proyectos\p05.pizza\bin\Debug\netcoreapp3.1\p05.pizza.exe
+Z:\04.sisinfogeoIC\proyectos\p05.pizza\bin\Debug\netcoreapp3.1\p05.pizza.deps.json
+Z:\04.sisinfogeoIC\proyectos\p05.pizza\bin\Debug\netcoreapp3.1\p05.pizza.runtimeconfig.json
+Z:\04.sisinfogeoIC\proyectos\p05.pizza\bin\Debug\netcoreapp3.1\p05.pizza.runtimeconfig.dev.json
+Z:\04.sisinfogeoIC\proyectos\p05.pizza\bin\Debug\netcoreapp3.1\p05.pizza.dll
+Z:\04.sisinfogeoIC\proyectos\p05.pizza\bin\Debug\netcoreapp3.1\p05.pizza.pdb
+Z:\04.sisinfogeoIC\proyectos\p05.pizza\obj\Debug\netcoreapp3.1\p05.pizza.csprojAssemblyReference.cache
+Z:\04.sisinfogeoIC\proyectos\p05.pizza\obj\Debug\netcoreapp3.1\p05.pizza.AssemblyInfoInputs.cache
+Z:\04.sisinfogeoIC\proyectos\p05.pizza\obj\Debug\netcoreapp3.1\p05.pizza.AssemblyInfo.cs
+Z:\04.sisinfogeoIC\proyectos\p05.pizza\obj\Debug\netcoreapp3.1\p05.pizza.dll
+Z:\04.sisinfogeoIC\proyectos\p05.pizza\obj\Debug\netcoreapp3.1\p05.pizza.pdb
