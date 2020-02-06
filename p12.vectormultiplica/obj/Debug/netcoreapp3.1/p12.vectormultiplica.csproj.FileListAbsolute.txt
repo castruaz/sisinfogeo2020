@@ -1,0 +1,11 @@
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p12.vectormultiplica/obj/Debug/netcoreapp3.1/p12.vectormultiplica.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p12.vectormultiplica/obj/Debug/netcoreapp3.1/p12.vectormultiplica.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p12.vectormultiplica/obj/Debug/netcoreapp3.1/p12.vectormultiplica.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p12.vectormultiplica/bin/Debug/netcoreapp3.1/p12.vectormultiplica
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p12.vectormultiplica/bin/Debug/netcoreapp3.1/p12.vectormultiplica.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p12.vectormultiplica/bin/Debug/netcoreapp3.1/p12.vectormultiplica.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p12.vectormultiplica/bin/Debug/netcoreapp3.1/p12.vectormultiplica.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p12.vectormultiplica/bin/Debug/netcoreapp3.1/p12.vectormultiplica.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p12.vectormultiplica/bin/Debug/netcoreapp3.1/p12.vectormultiplica.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p12.vectormultiplica/obj/Debug/netcoreapp3.1/p12.vectormultiplica.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p12.vectormultiplica/obj/Debug/netcoreapp3.1/p12.vectormultiplica.pdb

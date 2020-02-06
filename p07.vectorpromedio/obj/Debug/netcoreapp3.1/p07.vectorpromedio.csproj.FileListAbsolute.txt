@@ -1,0 +1,11 @@
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p07.vectorpromedio/obj/Debug/netcoreapp3.1/p07.vectorpromedio.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p07.vectorpromedio/obj/Debug/netcoreapp3.1/p07.vectorpromedio.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p07.vectorpromedio/obj/Debug/netcoreapp3.1/p07.vectorpromedio.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p07.vectorpromedio/bin/Debug/netcoreapp3.1/p07.vectorpromedio
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p07.vectorpromedio/bin/Debug/netcoreapp3.1/p07.vectorpromedio.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p07.vectorpromedio/bin/Debug/netcoreapp3.1/p07.vectorpromedio.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p07.vectorpromedio/bin/Debug/netcoreapp3.1/p07.vectorpromedio.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p07.vectorpromedio/bin/Debug/netcoreapp3.1/p07.vectorpromedio.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p07.vectorpromedio/bin/Debug/netcoreapp3.1/p07.vectorpromedio.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p07.vectorpromedio/obj/Debug/netcoreapp3.1/p07.vectorpromedio.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p07.vectorpromedio/obj/Debug/netcoreapp3.1/p07.vectorpromedio.pdb

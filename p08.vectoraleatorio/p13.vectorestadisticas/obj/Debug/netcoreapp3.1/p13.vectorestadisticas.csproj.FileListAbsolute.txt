@@ -1,0 +1,11 @@
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p08.vectoraleatorio/p13.vectorestadisticas/bin/Debug/netcoreapp3.1/p13.vectorestadisticas
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p08.vectoraleatorio/p13.vectorestadisticas/bin/Debug/netcoreapp3.1/p13.vectorestadisticas.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p08.vectoraleatorio/p13.vectorestadisticas/bin/Debug/netcoreapp3.1/p13.vectorestadisticas.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p08.vectoraleatorio/p13.vectorestadisticas/bin/Debug/netcoreapp3.1/p13.vectorestadisticas.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p08.vectoraleatorio/p13.vectorestadisticas/bin/Debug/netcoreapp3.1/p13.vectorestadisticas.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p08.vectoraleatorio/p13.vectorestadisticas/bin/Debug/netcoreapp3.1/p13.vectorestadisticas.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p08.vectoraleatorio/p13.vectorestadisticas/obj/Debug/netcoreapp3.1/p13.vectorestadisticas.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p08.vectoraleatorio/p13.vectorestadisticas/obj/Debug/netcoreapp3.1/p13.vectorestadisticas.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p08.vectoraleatorio/p13.vectorestadisticas/obj/Debug/netcoreapp3.1/p13.vectorestadisticas.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p08.vectoraleatorio/p13.vectorestadisticas/obj/Debug/netcoreapp3.1/p13.vectorestadisticas.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p08.vectoraleatorio/p13.vectorestadisticas/obj/Debug/netcoreapp3.1/p13.vectorestadisticas.pdb

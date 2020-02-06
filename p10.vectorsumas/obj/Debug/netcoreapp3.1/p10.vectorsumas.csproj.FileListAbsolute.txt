@@ -1,0 +1,11 @@
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p10.vectorsumas/bin/Debug/netcoreapp3.1/p10.vectorsumas
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p10.vectorsumas/bin/Debug/netcoreapp3.1/p10.vectorsumas.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p10.vectorsumas/bin/Debug/netcoreapp3.1/p10.vectorsumas.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p10.vectorsumas/bin/Debug/netcoreapp3.1/p10.vectorsumas.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p10.vectorsumas/bin/Debug/netcoreapp3.1/p10.vectorsumas.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p10.vectorsumas/bin/Debug/netcoreapp3.1/p10.vectorsumas.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p10.vectorsumas/obj/Debug/netcoreapp3.1/p10.vectorsumas.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p10.vectorsumas/obj/Debug/netcoreapp3.1/p10.vectorsumas.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p10.vectorsumas/obj/Debug/netcoreapp3.1/p10.vectorsumas.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p10.vectorsumas/obj/Debug/netcoreapp3.1/p10.vectorsumas.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p10.vectorsumas/obj/Debug/netcoreapp3.1/p10.vectorsumas.pdb

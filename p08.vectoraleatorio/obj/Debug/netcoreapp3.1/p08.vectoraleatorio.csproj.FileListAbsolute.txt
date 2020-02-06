@@ -1,0 +1,11 @@
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p08.vectoraleatorio/bin/Debug/netcoreapp3.1/p08.vectoraleatorio
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p08.vectoraleatorio/bin/Debug/netcoreapp3.1/p08.vectoraleatorio.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p08.vectoraleatorio/bin/Debug/netcoreapp3.1/p08.vectoraleatorio.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p08.vectoraleatorio/bin/Debug/netcoreapp3.1/p08.vectoraleatorio.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p08.vectoraleatorio/bin/Debug/netcoreapp3.1/p08.vectoraleatorio.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p08.vectoraleatorio/bin/Debug/netcoreapp3.1/p08.vectoraleatorio.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p08.vectoraleatorio/obj/Debug/netcoreapp3.1/p08.vectoraleatorio.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p08.vectoraleatorio/obj/Debug/netcoreapp3.1/p08.vectoraleatorio.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p08.vectoraleatorio/obj/Debug/netcoreapp3.1/p08.vectoraleatorio.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p08.vectoraleatorio/obj/Debug/netcoreapp3.1/p08.vectoraleatorio.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p08.vectoraleatorio/obj/Debug/netcoreapp3.1/p08.vectoraleatorio.pdb

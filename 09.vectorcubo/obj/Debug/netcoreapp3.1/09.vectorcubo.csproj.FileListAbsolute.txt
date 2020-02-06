@@ -1,0 +1,11 @@
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/09.vectorcubo/bin/Debug/netcoreapp3.1/09.vectorcubo
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/09.vectorcubo/bin/Debug/netcoreapp3.1/09.vectorcubo.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/09.vectorcubo/bin/Debug/netcoreapp3.1/09.vectorcubo.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/09.vectorcubo/bin/Debug/netcoreapp3.1/09.vectorcubo.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/09.vectorcubo/bin/Debug/netcoreapp3.1/09.vectorcubo.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/09.vectorcubo/bin/Debug/netcoreapp3.1/09.vectorcubo.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/09.vectorcubo/obj/Debug/netcoreapp3.1/09.vectorcubo.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/09.vectorcubo/obj/Debug/netcoreapp3.1/09.vectorcubo.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/09.vectorcubo/obj/Debug/netcoreapp3.1/09.vectorcubo.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/09.vectorcubo/obj/Debug/netcoreapp3.1/09.vectorcubo.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/09.vectorcubo/obj/Debug/netcoreapp3.1/09.vectorcubo.pdb
