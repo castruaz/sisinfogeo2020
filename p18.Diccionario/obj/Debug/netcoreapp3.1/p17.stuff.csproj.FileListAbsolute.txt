@@ -1,0 +1,11 @@
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p17.stuff/obj/Debug/netcoreapp3.1/p17.stuff.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p17.stuff/obj/Debug/netcoreapp3.1/p17.stuff.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p17.stuff/obj/Debug/netcoreapp3.1/p17.stuff.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p17.stuff/bin/Debug/netcoreapp3.1/p17.stuff
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p17.stuff/bin/Debug/netcoreapp3.1/p17.stuff.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p17.stuff/bin/Debug/netcoreapp3.1/p17.stuff.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p17.stuff/bin/Debug/netcoreapp3.1/p17.stuff.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p17.stuff/bin/Debug/netcoreapp3.1/p17.stuff.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p17.stuff/bin/Debug/netcoreapp3.1/p17.stuff.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p17.stuff/obj/Debug/netcoreapp3.1/p17.stuff.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p17.stuff/obj/Debug/netcoreapp3.1/p17.stuff.pdb

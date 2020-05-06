@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "p26.Interfaz2/1.0.0": {
+        "runtime": {
+          "p26.Interfaz2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p26.Interfaz2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

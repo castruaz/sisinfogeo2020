@@ -1,0 +1,11 @@
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p27.Threading1/obj/Debug/netcoreapp3.1/p27.Threading1.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p27.Threading1/obj/Debug/netcoreapp3.1/p27.Threading1.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p27.Threading1/obj/Debug/netcoreapp3.1/p27.Threading1.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p27.Threading1/bin/Debug/netcoreapp3.1/p27.Threading1
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p27.Threading1/bin/Debug/netcoreapp3.1/p27.Threading1.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p27.Threading1/bin/Debug/netcoreapp3.1/p27.Threading1.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p27.Threading1/bin/Debug/netcoreapp3.1/p27.Threading1.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p27.Threading1/bin/Debug/netcoreapp3.1/p27.Threading1.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p27.Threading1/bin/Debug/netcoreapp3.1/p27.Threading1.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p27.Threading1/obj/Debug/netcoreapp3.1/p27.Threading1.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p27.Threading1/obj/Debug/netcoreapp3.1/p27.Threading1.pdb

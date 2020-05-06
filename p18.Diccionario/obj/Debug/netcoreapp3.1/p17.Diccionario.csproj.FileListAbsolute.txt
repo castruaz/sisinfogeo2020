@@ -1,0 +1,11 @@
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p17.Diccionario/bin/Debug/netcoreapp3.1/p17.Diccionario
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p17.Diccionario/bin/Debug/netcoreapp3.1/p17.Diccionario.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p17.Diccionario/bin/Debug/netcoreapp3.1/p17.Diccionario.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p17.Diccionario/bin/Debug/netcoreapp3.1/p17.Diccionario.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p17.Diccionario/bin/Debug/netcoreapp3.1/p17.Diccionario.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p17.Diccionario/bin/Debug/netcoreapp3.1/p17.Diccionario.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p17.Diccionario/obj/Debug/netcoreapp3.1/p17.Diccionario.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p17.Diccionario/obj/Debug/netcoreapp3.1/p17.Diccionario.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p17.Diccionario/obj/Debug/netcoreapp3.1/p17.Diccionario.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p17.Diccionario/obj/Debug/netcoreapp3.1/p17.Diccionario.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p17.Diccionario/obj/Debug/netcoreapp3.1/p17.Diccionario.pdb

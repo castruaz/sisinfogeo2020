@@ -1,0 +1,11 @@
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p19.Listav2/bin/Debug/netcoreapp3.1/p19.Listav2
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p19.Listav2/bin/Debug/netcoreapp3.1/p19.Listav2.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p19.Listav2/bin/Debug/netcoreapp3.1/p19.Listav2.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p19.Listav2/bin/Debug/netcoreapp3.1/p19.Listav2.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p19.Listav2/bin/Debug/netcoreapp3.1/p19.Listav2.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p19.Listav2/bin/Debug/netcoreapp3.1/p19.Listav2.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p19.Listav2/obj/Debug/netcoreapp3.1/p19.Listav2.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p19.Listav2/obj/Debug/netcoreapp3.1/p19.Listav2.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p19.Listav2/obj/Debug/netcoreapp3.1/p19.Listav2.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p19.Listav2/obj/Debug/netcoreapp3.1/p19.Listav2.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p19.Listav2/obj/Debug/netcoreapp3.1/p19.Listav2.pdb

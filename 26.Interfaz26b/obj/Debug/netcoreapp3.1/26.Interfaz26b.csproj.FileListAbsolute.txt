@@ -1,0 +1,11 @@
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/26.Interfaz26b/bin/Debug/netcoreapp3.1/26.Interfaz26b
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/26.Interfaz26b/bin/Debug/netcoreapp3.1/26.Interfaz26b.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/26.Interfaz26b/bin/Debug/netcoreapp3.1/26.Interfaz26b.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/26.Interfaz26b/bin/Debug/netcoreapp3.1/26.Interfaz26b.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/26.Interfaz26b/bin/Debug/netcoreapp3.1/26.Interfaz26b.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/26.Interfaz26b/bin/Debug/netcoreapp3.1/26.Interfaz26b.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/26.Interfaz26b/obj/Debug/netcoreapp3.1/26.Interfaz26b.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/26.Interfaz26b/obj/Debug/netcoreapp3.1/26.Interfaz26b.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/26.Interfaz26b/obj/Debug/netcoreapp3.1/26.Interfaz26b.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/26.Interfaz26b/obj/Debug/netcoreapp3.1/26.Interfaz26b.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/26.Interfaz26b/obj/Debug/netcoreapp3.1/26.Interfaz26b.pdb

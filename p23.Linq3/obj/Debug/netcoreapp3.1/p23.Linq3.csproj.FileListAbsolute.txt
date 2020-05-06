@@ -1,0 +1,11 @@
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p23.Linq3/bin/Debug/netcoreapp3.1/p23.Linq3
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p23.Linq3/bin/Debug/netcoreapp3.1/p23.Linq3.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p23.Linq3/bin/Debug/netcoreapp3.1/p23.Linq3.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p23.Linq3/bin/Debug/netcoreapp3.1/p23.Linq3.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p23.Linq3/bin/Debug/netcoreapp3.1/p23.Linq3.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p23.Linq3/bin/Debug/netcoreapp3.1/p23.Linq3.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p23.Linq3/obj/Debug/netcoreapp3.1/p23.Linq3.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p23.Linq3/obj/Debug/netcoreapp3.1/p23.Linq3.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p23.Linq3/obj/Debug/netcoreapp3.1/p23.Linq3.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p23.Linq3/obj/Debug/netcoreapp3.1/p23.Linq3.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p23.Linq3/obj/Debug/netcoreapp3.1/p23.Linq3.pdb
