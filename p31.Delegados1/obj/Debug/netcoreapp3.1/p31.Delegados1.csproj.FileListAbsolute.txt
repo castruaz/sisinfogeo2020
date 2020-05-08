@@ -1,0 +1,11 @@
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p31.Delegados1/bin/Debug/netcoreapp3.1/p31.Delegados1
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p31.Delegados1/bin/Debug/netcoreapp3.1/p31.Delegados1.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p31.Delegados1/bin/Debug/netcoreapp3.1/p31.Delegados1.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p31.Delegados1/bin/Debug/netcoreapp3.1/p31.Delegados1.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p31.Delegados1/bin/Debug/netcoreapp3.1/p31.Delegados1.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p31.Delegados1/bin/Debug/netcoreapp3.1/p31.Delegados1.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p31.Delegados1/obj/Debug/netcoreapp3.1/p31.Delegados1.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p31.Delegados1/obj/Debug/netcoreapp3.1/p31.Delegados1.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p31.Delegados1/obj/Debug/netcoreapp3.1/p31.Delegados1.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p31.Delegados1/obj/Debug/netcoreapp3.1/p31.Delegados1.dll
+/Users/castr/Google Drive/UAZ2020/ClasesEJ2020/04.sisinfogeoIC/proyectos/p31.Delegados1/obj/Debug/netcoreapp3.1/p31.Delegados1.pdb
