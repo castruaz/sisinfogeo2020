@@ -1,6 +1,6 @@
 ﻿using System;
 
-// Ejemplo delegado Multicast con parametros 
+// Ejemplo delegado multicast con parámetros 
 
 namespace p33.Delegados3
 {

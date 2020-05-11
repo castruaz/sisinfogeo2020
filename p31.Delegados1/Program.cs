@@ -1,6 +1,6 @@
 ﻿using System;
 
-// Ejemplo de delagados simples
+// Ejemplo de delagado simple
 
 namespace p31.Delegados1
 {
@@ -28,7 +28,15 @@ namespace p31.Delegados1
             d("Carlos");
 
             Console.WriteLine();
+        }
+    }
 
+    public class Mensajes {
+        public static void Mensaje1(string msj) {
+            Console.WriteLine($"{msj} - lleva el pastel");
+        }
+        public static void Mensaje2(string msj) {
+            Console.WriteLine($"{msj} - fue el culpable se cancela la fiesta");
         }
     }
 }

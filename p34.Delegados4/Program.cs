@@ -1,6 +1,6 @@
 ﻿using System;
 
-// Ejemplo de delegado generico
+// Ejemplo de delegado genérico
 
 namespace p34.Delegados4
 {
