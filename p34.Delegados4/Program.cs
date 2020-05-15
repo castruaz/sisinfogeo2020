@@ -16,6 +16,10 @@ namespace p34.Delegados4
             Suma<string> d2 = Concatenar; // Delegado a metodo Concatenar de tipo string con parametros string, string
             Console.WriteLine( d2("Mi mama me"," mima mi mama") );
 
+            
+            // Suma<string> d3 = DeTodo; // No se puede todo debe ser del mismo tipo
+
+
             Console.WriteLine();
         }
     
@@ -28,5 +32,11 @@ namespace p34.Delegados4
         {
             return a + b;
         }
+
+        public static string DeTodo(string a, int b) {
+            return "hola";
+        }
+
+
 }
 }

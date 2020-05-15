@@ -10,28 +10,27 @@ namespace p35.Delegados5
     {
         static void Main(string[] args)
         {
-            MiDelegado del;
+            MiDelegado del; // Se crea instancia de MiDelegado
 
             Console.Clear();
             
-            del= ClaseA.MetodoA;
-            Invocadelegado(del);
+            del= ClaseA.MetodoA; 
+            Invocadelegado(del); // Se invoca al delegado
 
             del = ClaseB.MetodoB;
-            Invocadelegado(del);
+            Invocadelegado(del); // Se invoca al delegado
 
             del = (string msj) => Console.WriteLine($"Llamando expresion Lambada: {msj}");
-            Invocadelegado(del);
+            Invocadelegado(del); // Se invoca al delegado
 
             Console.WriteLine();
 
         }
 
+        // Este método recibe como parámetro un delegado
         static void Invocadelegado(MiDelegado del) {
-            del("Hola Mundo");
+            del("Hola Mundo"); // se invoca al delegado
         }
-        
-
     }
 
     class ClaseA {
@@ -44,8 +43,6 @@ namespace p35.Delegados5
         public static void MetodoB(string msj) {
             Console.WriteLine($"Llamando MetodoB de ClaseB : {msj}");
     }
-
-
 }
 
 }
